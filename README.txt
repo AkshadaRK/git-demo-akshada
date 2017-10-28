@@ -1,2 +1,1 @@
 Readmi init
-readmi done
